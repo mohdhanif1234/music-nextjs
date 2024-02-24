@@ -1,0 +1,1 @@
+Music app created using Next JS with Aceternity UI components
